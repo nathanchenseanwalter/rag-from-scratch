@@ -1,4 +1,4 @@
-PyMuPDF==1.23.26
+PyMuPDF
 matplotlib==3.8.3
 numpy==1.26.4
 pandas==2.2.1
